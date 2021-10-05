@@ -8,10 +8,6 @@
   box-sizing: border-box;
 }
 
-html {
-  overflow: hidden;
-}
-
 body {
   background: hsl(204, 43%, 93%);
   display: flex;
